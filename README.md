@@ -1,10 +1,10 @@
-# Scav Prototype Czech Laungage Pack
-My try at making a czech laungage pack for the folks in the Czech Republic playing this (if there are any to begin with).
-Currently in heavy development, so i strongly advise against **playing** it (for now). If you have any questions, concerns or suggestions, drop them into my discord. (My username there is the same as in here, what gives?)
+# Scav Prototype Latvian Laungage Pack
+i have no creative description so roll a the credits :3c (original made by [TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1))
 # Authors
 | File                       | Contributors                                                                                                        |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| [Czech (CZ)](/CZ.json)   | [TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1)                                                                             |
+| [Latvian (LV)](/LV.json)   | me :3c                                                                 |
 
 # Maintainers
-* [@TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1)
+* [@TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1) (the original czech pack which this was forked from)
+* [@fusionofficial](https://github.com/fusionofficial) me
