@@ -7,4 +7,4 @@ Currently in heavy development, so i strongly advise against **playing** it (for
 | [Czech (CZ)](/CZ.json)   | [TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1)                                                                             |
 
 # Maintainers
-* [@TheOneWhoBuilds1](https://github.com/TheOneWHoBuilds1)
+* [@TheOneWhoBuilds1](https://github.com/TheOneWhoBuilds1)
